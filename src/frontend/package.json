@@ -20,7 +20,7 @@
     "marked": "4.0.10",
     "unset-value": "2.0.1",
     "glob-parent": "5.1.2",
-    "decode-uri-component": "0.2.2",
+    "decode-uri-component": "0.4.1",
     "unset-value": "2.0.1"
   },
   "devDependencies": {
