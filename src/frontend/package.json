@@ -12,10 +12,10 @@
   },
   "dependencies": {
     "cross-env": "^5.2.0",
-    "semver": "7.5.2",
+    "semver": "5.7.2",
     "nuxt": "3.8.0",
     "sockjs-client": "^1.4.0",
-    "eventsource": "2.0.2",
+    "eventsource": "1.1.1",
     "webstomp-client": "^1.2.6",
     "marked": "4.0.10",
     "unset-value": "2.0.1",
