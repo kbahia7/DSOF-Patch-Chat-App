@@ -102,7 +102,7 @@ public class ChatController {
         if (!user.equals("test"))
         {
             response.setContentType("text/html");
-            response.getWriter().write("<h1>Hello: " + user + "</h1>");
+            //response.getWriter().write("<h1>Hello: " + user + "</h1>");
             response.getWriter().flush();
         }
     }
