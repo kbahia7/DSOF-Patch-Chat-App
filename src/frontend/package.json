@@ -16,7 +16,7 @@
     "eventsource": "1.1.1",
     "glob-parent": "5.1.2",
     "marked": "4.0.10",
-    "nuxt": "3.8.0",
+    "nuxt": "3.13.2",
     "semver": "5.7.2",
     "sockjs-client": "^1.4.0",
     "unset-value": "2.0.1",
